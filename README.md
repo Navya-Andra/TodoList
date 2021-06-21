@@ -24,5 +24,5 @@ Feel free to [open an issue](https://github.com/Navya-Andra/TodoList/issues) on 
 
 <a id="feature-request"></a>
 ## ⭐ Feature Request
-- Feel free to [Open an issue](https://github.com/Navya-Andra/TodoList/issues) on GitHub to request any additional features you might need for your use case.   
+Feel free to [Open an issue](https://github.com/Navya-Andra/TodoList/issues) on GitHub to request any additional features you might need for your use case.   
 
